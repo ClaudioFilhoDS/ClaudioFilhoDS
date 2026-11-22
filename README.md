@@ -14,6 +14,11 @@ Estudante do 3º ano do **Técnico Integrado em Desenvolvimento de Sistemas** no
 
 > O código desses projetos é privado. Para saber mais, fale comigo pelo LinkedIn.
 
+## 🎥 Pitches em vídeo
+
+- [BioCast – pitch do projeto](https://youtu.be/VUXdr9vCWFA)
+- [Aeris – pitch do projeto](https://youtu.be/w8jTa5UlKHg)
+
 ## 🛠️ Ferramentas
 
 Python · Java · SQL · Arduino · ESP32 · LEGO SPIKE Prime e EV3 · Impressão 3D · Corte a laser · Git
