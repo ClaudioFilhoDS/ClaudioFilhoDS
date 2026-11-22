@@ -32,4 +32,4 @@ Python · Java · SQL · Arduino · ESP32 · LEGO SPIKE Prime e EV3 · Impressã
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/cl%C3%A1udio-ant%C3%B4nio-da-costa-gon%C3%A7alves-filho-408317318/) · [Currículo Lattes](http://lattes.cnpq.br/5287047062350843)
+[LinkedIn](https://www.linkedin.com/in/claudiofilhods) · [Currículo Lattes](http://lattes.cnpq.br/5287047062350843)
